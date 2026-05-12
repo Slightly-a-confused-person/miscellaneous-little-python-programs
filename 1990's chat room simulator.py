@@ -1,0 +1,6 @@
+print('EMessage machine booting to selected server...')
+a=str(input('input name of person saying the message here.'))
+b=str(input("input adjective describing how the person says the message,or leave it empty if you're boring."))
+c=str(input("input the message the person is saying here. "))
+d=str(input('insert the server name here.'))
+print(a+" "+b+" sent a  message:"+c+" on server #"+d)
